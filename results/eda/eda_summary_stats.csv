@@ -1,0 +1,5 @@
+,title_length,title_length,title_length,title_length,title_length,title_length,title_length,title_length,tweet_count,tweet_count,tweet_count,tweet_count,tweet_count,tweet_count,tweet_count,tweet_count,exclaim_count,exclaim_count,exclaim_count,exclaim_count,exclaim_count,exclaim_count,exclaim_count,exclaim_count,question_count,question_count,question_count,question_count,question_count,question_count,question_count,question_count
+,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max
+label,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,17441.0,11.572272232096783,4.091213109187163,0.0,9.0,11.0,14.0,53.0,17441.0,74.52502723467691,466.5133579538736,0.0,17.0,44.0,66.0,27377.0,17441.0,0.05601743019322287,0.23804813264889962,0.0,0.0,0.0,0.0,3.0,17441.0,0.040421994151711486,0.20127211459257338,0.0,0.0,0.0,0.0,2.0
+1,5755.0,11.36333622936577,4.137060558334708,0.0,9.0,11.0,14.0,39.0,5755.0,132.69348392701997,548.2133583006326,0.0,5.0,13.0,51.0,29060.0,5755.0,0.07106863596872284,0.3005998313096473,0.0,0.0,0.0,0.0,6.0,5755.0,0.1254561251086012,0.3410865802238818,0.0,0.0,0.0,0.0,3.0
